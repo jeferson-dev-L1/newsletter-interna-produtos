@@ -1,4 +1,4 @@
-# 📰 Exemplo de Newsletter Interna — Novidades de Produto
+# 📰 Exemplo de Newsletter Interna — Produtos e Funcionalidades
 
 **Período:** 24 a 28 de agosto de 2026
 
@@ -16,30 +16,32 @@ Nesta edição, reunimos novidades que ajudam a melhorar a produtividade e facil
 - **Como acessar/usar:** Acessar a Intranet → Serviços → Central de Solicitações.
 - **Status:** Lançado.
 - **Links úteis:** https://intranet/central-solicitacoes
-- **📣 CTA interno:** Acesse a nova central e utilize o novo formulário para abrir sua próxima solicitação.
 - **📬 Canal de dúvidas/suporte:** Canal #suporte-ti-pagina-de-chamado
+- **📣 CTA interno:** Acesse a nova central e utilize o novo formulário para abrir sua próxima solicitação.
+
 
 ### ⭐ Painel de Indicadores Comerciais
 
 - **O que é:** Novo painel para consulta dos principais indicadores de vendas e desempenho comercial.
 - **Por que isso importa:** Permite consultar os principais indicadores em um único lugar, reduzindo a necessidade de consolidar informações manualmente.
-- **Para quem é:** Equipe Comercial e Gestores das áreas de vendas.
+- **Para quem é:** Equipe Comercial e gestores das áreas de vendas.
 - **Como acessar/usar:** Acessar o Power BI → Área Comercial → Painel de Indicadores.
 - **Status:** Beta.
 - **Links úteis:** https://bi/painel-comercial
-- **📣 CTA interno:** Acesse o painel, consulte os indicadores e envie seu feedback sobre a experiência de uso.
 - **📬 Canal de dúvidas/suporte:** Canal #dados-comercial
+- **📣 CTA interno:** Acesse o painel, consulte os indicadores e envie seu feedback sobre a experiência de uso.
+
 
 ### ⭐ Integração de Login Único (SSO) do Portal de Benefícios
 
-- **O que é:** Integração para acesso ao Portal de Benefícios utilizando as credenciais corporativas.
+- **O que é:** Integração de login único (SSO) para acesso ao Portal de Benefícios utilizando as credenciais corporativas.
 - **Por que isso importa:** Reduz a necessidade de múltiplas senhas e facilita o acesso ao portal.
 - **Para quem é:** Todos os colaboradores.
 - **Como acessar/usar:** Acessar o Portal de Benefícios normalmente. Para os colaboradores com acesso ao novo login, a autenticação será realizada automaticamente utilizando as credenciais corporativas.
 - **Status:** Rollout — disponível inicialmente para 50% dos colaboradores.
 - **Links úteis:** Não disponível.
-- **📣 CTA interno:** Se o acesso estiver disponível para você, teste o novo login e informe qualquer problema ao suporte.
 - **📬 Canal de dúvidas/suporte:** Canal #beneficios-chat-whatsapp
+- **📣 CTA interno:** Se o acesso estiver disponível para você, teste o novo login e informe qualquer problema ao suporte.
 
 ## 🧠 Resumo executivo
 
