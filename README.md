@@ -1,6 +1,6 @@
 # 📋 Prompt — Newsletter Interna de Novos Produtos
 
-> Template reutilizável de Engenharia de Prompt para criação de newsletters internas sobre novos produtos e funcionalidades digitais.
+> Template reutilizável de Engenharia de Prompt para geração de newsletters internas claras, padronizadas e confiáveis sobre novos produtos e funcionalidades digitais.
 
 ## 🎯 Sobre o projeto
 
@@ -149,6 +149,8 @@ O documento apresenta as decisões utilizadas na construção do prompt e os cri
 Este projeto demonstra a aplicação prática de Engenharia de Prompt na criação de uma solução estruturada para comunicação interna de produtos digitais.
 
 O foco não está apenas na geração de texto, mas na definição de regras, estrutura, validações e critérios de confiabilidade para orientar o comportamento do modelo.
+
+---
 
 ## 🍴 Fork e reutilização
 
