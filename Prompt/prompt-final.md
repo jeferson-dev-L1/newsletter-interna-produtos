@@ -1,6 +1,6 @@
 Prompt Final
 
-📋 Template Reutilizável — Newsletter Interna de Novos Produtos
+📋 Template Reutilizável — Newsletter Interna de Produtos e Funcionalidades
 
 ## Campos obrigatórios (entrada)
 
@@ -26,7 +26,7 @@ Preencha os campos abaixo para cada novidade. Campos marcados como **(obrigatór
   
 - **CANAL DE DÚVIDAS/SUPORTE**: canal ou contato (ou `⚠️ Informação pendente`)
   
-- **OUTROS CAMPOS** (opcionais): informações adicionais de contexto, utilizadas somente quando forem relevantes e compatíveis com a estrutura definida.
+- **OUTROS CAMPOS** (opcionais): informações adicionais de contexto fornecidas nos dados de entrada. Utilize somente quando forem relevantes e compatíveis com a estrutura definida. Não utilize esses campos para criar informações ausentes nos campos obrigatórios.
 
 Exemplo mínimo (entrada esperada):
 
@@ -138,12 +138,11 @@ FAQ
 
 FORMATO OBRIGATÓRIO DE SAÍDA
 
-# 📰 Newsletter Interna — Novidades de Produto ({SEMANA/DATA})
+# 📰 Newsletter Interna — Produtos e Funcionalidades ({SEMANA/DATA})
 
 ## 👋 Abertura
 
-Escreva uma abertura de 2–3 linhas, contextualizando o tema da edição e
-preparando o leitor para as novidades.
+Escreva uma abertura de 2–3 linhas, utilizando o TEMA GERAL fornecido como contexto da edição e preparando o leitor para as novidades.
 
 ## 🚀 Novidades da semana
 
@@ -164,11 +163,15 @@ Para cada novidade, utilize obrigatoriamente esta estrutura:
 
 ● **Links úteis:**
 
+● **Canal de dúvidas/suporte:**
+
 ● **📣 CTA interno:**
+
+Se não houver ação esperada para a novidade, não inclua este campo.
 
 ## 🧠 Resumo executivo
 
-Apresente exatamente 3 bullets com os principais destaques da edição.
+Apresente exatamente 3 bullets com os principais destaques da edição, utilizando somente informações fornecidas nos dados de entrada. Caso a edição tenha menos de 3 novidades, não invente informações nem repita artificialmente os mesmos dados; utilize somente os destaques disponíveis.
 
 ## ❓ FAQ rápido
 
@@ -189,7 +192,7 @@ Informações gerais
 
 SEMANA/DATA: 24 a 28 de agosto de 2026
 
-TEMA GERAL: Novidades para melhorar a produtividade e facilitar o acesso aos produtos internos.
+TEMA GERAL: Melhorias para aumentar a produtividade e facilitar o acesso aos produtos internos.
 
 NOVIDADE 1 — EXEMPLO PREENCHIDO
 
