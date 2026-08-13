@@ -33,15 +33,15 @@ Prompt Final
 Exemplo mínimo (entrada esperada):
 
 ```
-TEMA GERAL: Melhorias para aumentar a produtividade e facilitar o acesso aos produtos internos.
+TEMA GERAL: Melhorias para aumentar a produtividade e facilitar o acesso aos produtos internos
 
 SEMANA/DATA: 24 a 28 de agosto de 2026
 
 NOME: Central de Solicitações 2.0
 
-O QUE É: Nova versão da central interna para abertura e acompanhamento de solicitações.
+O QUE É: Nova versão da central interna para abertura e acompanhamento de solicitações
 
-POR QUE ISSO IMPORTA: Centraliza solicitações e facilita acompanhamento do status.
+POR QUE ISSO IMPORTA: Centraliza solicitações e facilita acompanhamento do status
 
 PARA QUEM É: Todos os colaboradores
 
