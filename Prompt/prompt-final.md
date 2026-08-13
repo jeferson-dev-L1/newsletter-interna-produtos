@@ -4,7 +4,9 @@ Prompt Final
 
 ## Campos obrigatórios (entrada)
 
-Preencha os campos abaixo para cada novidade. Campos marcados como **(obrigatório)** devem ser fornecidos para garantir geração confiável.
+"Preencha os campos abaixo para cada edição e novidade." Campos marcados como **(obrigatório)** devem ser fornecidos para garantir geração confiável.
+
+- **TEMA GERAL** (obrigatório): contexto ou tema principal da edição da newsletter.
 
 - **SEMANA/DATA** (obrigatório): período da edição (ex.: 24 a 28 de agosto de 2026)
   
