@@ -7,29 +7,48 @@ Prompt Final
 Preencha os campos abaixo para cada novidade. Campos marcados como **(obrigatório)** devem ser fornecidos para garantir geração confiável.
 
 - **SEMANA/DATA** (obrigatório): período da edição (ex.: 24 a 28 de agosto de 2026)
+  
 - **NOME** (obrigatório): nome do produto ou funcionalidade
+  
 - **O QUE É** (obrigatório): descrição objetiva do que é a novidade
+  
 - **POR QUE ISSO IMPORTA** (obrigatório): principal benefício ou impacto prático
+  
 - **PARA QUEM É** (obrigatório): público-alvo ou áreas impactadas
+  
 - **COMO ACESSAR/USAR** (obrigatório): caminho ou instruções de acesso. Caso a informação não esteja disponível, informe ⚠️ Informação pendente.
+  
 - **STATUS** (obrigatório): `Lançado / Beta / Piloto / Rollout / Outro`
-- **LINKS ÚTEIS**: URL(s) relevantes ou `Não disponível`
+  
+- **LINKS ÚTEIS**: URL(s) relevantes ou `Não disponível.`
+  
 - **CTA INTERNO** (obrigatório quando houver ação esperada): texto da ação esperada
+  
 - **CANAL DE DÚVIDAS/SUPORTE**: canal ou contato (ou `⚠️ Informação pendente`)
+  
 - **OUTROS CAMPOS** (opcionais): informações adicionais de contexto, utilizadas somente quando forem relevantes e compatíveis com a estrutura definida.
 
 Exemplo mínimo (entrada esperada):
 
 ```
 SEMANA/DATA: 24 a 28 de agosto de 2026
+
 NOME: Central de Solicitações 2.0
+
 O QUE É: Nova versão da central interna para abertura e acompanhamento de solicitações.
+
 POR QUE ISSO IMPORTA: Centraliza solicitações e facilita acompanhamento do status.
+
 PARA QUEM É: Todos os colaboradores
+
 COMO ACESSAR/USAR: Intranet → Serviços → Central de Solicitações
+
 STATUS: Lançado
+
 LINKS ÚTEIS: https://intranet/central-solicitacoes
+
 CTA INTERNO: Acesse a nova central e utilize o novo formulário
+
 CANAL DE DÚVIDAS/SUPORTE: Canal #suporte-ti-pagina-de-chamado
 
 ```
@@ -102,7 +121,9 @@ Confiabilidade
 CTA
 
 ● Inclua um CTA interno quando houver uma ação esperada.
+
 ● Preserve a intenção do CTA informado nos dados de entrada.
+
 ● Não invente ações que não foram informadas.
 
 FAQ
@@ -132,11 +153,17 @@ Para cada novidade, utilize obrigatoriamente esta estrutura:
 ### ⭐ {NOME DO PRODUTO/FEATURE}
 
 ● **O que é:**
+
 ● **Por que isso importa:**
+
 ● **Para quem é:**
+
 ● **Como acessar/usar:**
+
 ● **Status:**
+
 ● **Links úteis:**
+
 ● **📣 CTA interno:**
 
 ## 🧠 Resumo executivo
@@ -159,7 +186,9 @@ ou informações já apresentadas nas novidades.
 📥 DADOS DE ENTRADA
 
 Informações gerais
+
 SEMANA/DATA: 24 a 28 de agosto de 2026
+
 TEMA GERAL: Novidades para melhorar a produtividade e facilitar o acesso aos produtos internos.
 
 NOVIDADE 1 — EXEMPLO PREENCHIDO
@@ -246,8 +275,7 @@ Como acessar/usar: {CAMINHO OU INSTRUÇÕES DE ACESSO}
 Status: {LANÇADO / BETA / PILOTO / ROLLOUT / OUTRO}
 
 Links úteis: {URL OU "Não disponível."}
-
-CTA interno: { AÇÃO ESPERADA DO COLABORADOR ou ⚠️ Informação pendente}
+CTA interno: {AÇÃO ESPERADA DO COLABORADOR ou ⚠️ Informação pendente, se houver ação esperada}
 
 Canal de dúvidas/suporte: {CANAL ou ⚠️ Informação pendente}
 
@@ -279,7 +307,7 @@ sigla entre parênteses.
 
 ● Sinalize informações ausentes com ⚠️ Informação pendente.
 
-● Quando não houver link disponível, informe Não disponível.
+● Quando não houver link disponível, informe "Não disponível.".
 
 ● Não crie FAQ com informações que não possam ser respondidas pelos
 dados fornecidos.
