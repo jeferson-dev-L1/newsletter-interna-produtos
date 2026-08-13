@@ -91,6 +91,28 @@ Apresenta a metodologia utilizada na construção do prompt, incluindo decisões
 
 ---
 
+## 🧪 Como testar
+
+Para testar o template:
+
+1. Abra `prompt/template-newsletter.md`.
+2. Substitua os dados de exemplo pelas informações reais.
+3. Forneça o prompt a um modelo de IA.
+4. Compare a saída gerada com a estrutura definida no template.
+5. Verifique especialmente:
+   - informações ausentes;
+   - URLs;
+   - status;
+   - público-alvo;
+   - forma de acesso;
+   - CTA;
+   - canal de suporte;
+   - siglas;
+   - FAQ.
+6. Utilize a newsletter somente após validar as informações apresentadas.
+
+---
+
 ## 🔒 Princípios de confiabilidade
 
 O prompt estabelece que o modelo deve:
