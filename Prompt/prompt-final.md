@@ -22,12 +22,12 @@ Preencha os campos abaixo para cada novidade. Campos marcados como **(obrigatór
   
 - **LINKS ÚTEIS**: URL(s) relevantes ou `Não disponível.`
   
-- **CTA INTERNO** (obrigatório quando houver ação esperada): texto da ação esperada
+- **CTA INTERNO** (obrigatório quando houver ação esperada): ação esperada do colaborador. Caso não exista uma ação esperada, informe Não se aplica.
   
 - **CANAL DE DÚVIDAS/SUPORTE**: canal ou contato (ou `⚠️ Informação pendente`)
   
-- **OUTROS CAMPOS** (opcionais): informações adicionais de contexto fornecidas nos dados de entrada. Utilize somente quando forem relevantes e compatíveis com a estrutura definida. Não utilize esses campos para criar informações ausentes nos campos obrigatórios.
-
+- **INFORMAÇÕES ADICIONAIS** (opcional): informações complementares fornecidas nos dados de entrada que possam ajudar na contextualização da novidade. Utilize somente quando forem relevantes e compatíveis com a estrutura definida. Não utilize este campo para criar ou completar informações ausentes nos campos obrigatórios.
+  
 Exemplo mínimo (entrada esperada):
 
 ```
@@ -165,7 +165,7 @@ Para cada novidade, utilize obrigatoriamente esta estrutura:
 
 ● **Canal de dúvidas/suporte:**
 
-● **📣 CTA interno:**
+● **📣 CTA interno:** {AÇÃO ESPERADA DO COLABORADOR ou "Não se aplica."}
 
 Se não houver ação esperada para a novidade, não inclua este campo.
 
@@ -278,7 +278,8 @@ Como acessar/usar: {CAMINHO OU INSTRUÇÕES DE ACESSO}
 Status: {LANÇADO / BETA / PILOTO / ROLLOUT / OUTRO}
 
 Links úteis: {URL OU "Não disponível."}
-CTA interno: {AÇÃO ESPERADA DO COLABORADOR ou ⚠️ Informação pendente, se houver ação esperada}
+
+CTA interno: {AÇÃO ESPERADA DO COLABORADOR ou "Não se aplica."}
 
 Canal de dúvidas/suporte: {CANAL ou ⚠️ Informação pendente}
 
