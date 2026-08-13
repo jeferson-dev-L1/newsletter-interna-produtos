@@ -17,6 +17,7 @@ Nesta edição, reunimos novidades que ajudam a melhorar a produtividade e facil
 - **Status:** Lançado.
 - **Links úteis:** https://intranet/central-solicitacoes
 - **📣 CTA interno:** Acesse a nova central e utilize o novo formulário para abrir sua próxima solicitação.
+- **📬 Canal de dúvidas/suporte:** Canal #suporte-ti-pagina-de-chamado
 
 ### ⭐ Painel de Indicadores Comerciais
 
@@ -27,6 +28,7 @@ Nesta edição, reunimos novidades que ajudam a melhorar a produtividade e facil
 - **Status:** Beta.
 - **Links úteis:** https://bi/painel-comercial
 - **📣 CTA interno:** Acesse o painel, consulte os indicadores e envie seu feedback sobre a experiência de uso.
+- **📬 Canal de dúvidas/suporte:** Canal #dados-comercial
 
 ### ⭐ Integração de Login Único (SSO) do Portal de Benefícios
 
@@ -37,6 +39,7 @@ Nesta edição, reunimos novidades que ajudam a melhorar a produtividade e facil
 - **Status:** Rollout — disponível inicialmente para 50% dos colaboradores.
 - **Links úteis:** Não disponível.
 - **📣 CTA interno:** Se o acesso estiver disponível para você, teste o novo login e informe qualquer problema ao suporte.
+- **📬 Canal de dúvidas/suporte:** Canal #beneficios-chat-whatsapp
 
 ## 🧠 Resumo executivo
 
