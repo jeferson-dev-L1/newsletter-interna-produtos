@@ -20,7 +20,7 @@ Prompt Final
   
 - **COMO ACESSAR/USAR** (obrigatório): caminho ou instruções de acesso. Caso a informação não esteja disponível, informe ⚠️ Informação pendente.
   
-- **STATUS** (obrigatório): `Lançado / Beta / Piloto / Rollout / Outro`
+- **STATUS** (obrigatório): status atual do produto ou funcionalidade (ex.: Lançado, Beta, Piloto, Rollout ou outro status informado nos dados de entrada).
   
 - **LINKS ÚTEIS**: URL(s) relevantes ou `Não disponível.`
   
@@ -33,6 +33,8 @@ Prompt Final
 Exemplo mínimo (entrada esperada):
 
 ```
+TEMA GERAL: Melhorias para aumentar a produtividade e facilitar o acesso aos produtos internos.
+
 SEMANA/DATA: 24 a 28 de agosto de 2026
 
 NOME: Central de Solicitações 2.0
@@ -167,9 +169,9 @@ Para cada novidade, utilize obrigatoriamente esta estrutura:
 
 ● **Canal de dúvidas/suporte:**
 
-● **📣 CTA interno:** {AÇÃO ESPERADA DO COLABORADOR ou "Não se aplica."}
+● **📣 CTA interno:**
 
-Se não houver ação esperada para a novidade, não inclua este campo.
+Se não houver ação esperada para a novidade, não inclua o campo CTA interno na newsletter final.
 
 ## 🧠 Resumo executivo
 
@@ -188,7 +190,9 @@ Escreva um encerramento de 1–2 linhas, reforçando a mensagem principal da
 edição ou orientando o leitor sobre o próximo passo. Não repita canais de dúvidas
 ou informações já apresentadas nas novidades.
 
-📥 DADOS DE ENTRADA
+📥 DADOS DE ENTRADA — EXEMPLO PREENCHIDO
+
+> **Importante:** Os dados desta seção são apenas um exemplo preenchido para demonstrar o funcionamento do template. Em uma utilização real, substitua-os pelas informações da edição e das novidades que serão divulgadas.
 
 Informações gerais
 
@@ -265,7 +269,7 @@ problema ao suporte.
 
 Canal de dúvidas/suporte: Canal #beneficios-chat-whatsapp
 
-> **Importante:** A NOVIDADE 4 é apenas um modelo de preenchimento. Não a considere uma novidade real enquanto os campos estiverem preenchidos com placeholders `{...}`.
+> **Importante:** A NOVIDADE 4 é um modelo de preenchimento. Considere-a apenas quando os placeholders {...} forem substituídos por dados reais.
 
 NOVIDADE 4 — PREENCHA AQUI
 
@@ -279,7 +283,7 @@ Para quem é: {PÚBLICO OU ÁREAS ENVOLVIDAS}
 
 Como acessar/usar: {CAMINHO OU INSTRUÇÕES DE ACESSO}
 
-Status: {LANÇADO / BETA / PILOTO / ROLLOUT / OUTRO}
+Status: {STATUS ATUAL DO PRODUTO OU FUNCIONALIDADE}
 
 Links úteis: {URL OU "Não disponível."}
 
@@ -292,6 +296,10 @@ Canal de dúvidas/suporte: {CANAL ou ⚠️ Informação pendente}
 Antes de gerar a newsletter:
 
 ● Utilize somente as informações fornecidas nos dados de entrada.
+
+● Utilize informações adicionais somente quando forem relevantes para contextualizar a novidade e compatíveis com a estrutura definida.
+
+● Não utilize informações adicionais para completar, inferir ou substituir informações obrigatórias ausentes.
 
 ● Não invente dados, benefícios, datas, links, funcionalidades ou informações
 de acesso.
