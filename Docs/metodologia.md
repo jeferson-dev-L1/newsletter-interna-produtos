@@ -104,7 +104,8 @@ Cada novidade também possui campos padronizados:
 - Como acessar/usar;
 - Status;
 - Links úteis;
-- CTA interno.
+- Canal de dúvidas/suporte;
+- CTA interno, quando houver ação esperada.
 
 Essa estrutura facilita a leitura e permite comparar diferentes produtos ou funcionalidades.
 
