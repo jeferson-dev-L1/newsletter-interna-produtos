@@ -22,7 +22,7 @@ Nesta edição, reunimos novidades que ajudam a melhorar a produtividade e facil
 
 - **O que é:** Novo painel para consulta dos principais indicadores de vendas e desempenho comercial.
 - **Por que isso importa:** Permite consultar os principais indicadores em um único lugar, reduzindo a necessidade de consolidar informações manualmente.
-- **Para quem é:** Equipe Comercial e gestores das áreas de vendas.
+- **Para quem é:** Equipe Comercial e Gestores das áreas de vendas.
 - **Como acessar/usar:** Acessar o Power BI → Área Comercial → Painel de Indicadores.
 - **Status:** Beta.
 - **Links úteis:** https://bi/painel-comercial
@@ -57,4 +57,4 @@ Na Intranet → Serviços → Central de Solicitações.
 
 ## 📬 Encerramento
 
-Confira as novidades e utilize os novos recursos conforme a disponibilidade indicada em cada produto. 
+Confira as novidades e siga as orientações de acesso e uso indicadas em cada produto.
