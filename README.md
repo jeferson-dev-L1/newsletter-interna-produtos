@@ -1,4 +1,4 @@
-# 📋 Prompt — Newsletter Interna de Novos Produtos
+# 📋 Prompt — Newsletter Interna de Produtos e Funcionalidades
 
 > Template reutilizável de Engenharia de Prompt para geração de newsletters internas claras, padronizadas e confiáveis sobre novos produtos e funcionalidades digitais.
 
@@ -82,12 +82,12 @@ Apresenta a metodologia utilizada na construção do prompt, incluindo decisões
 ---
 ## 🚀 Como utilizar
 
-- Abra o arquivo `prompt/template-newsletter.md`.
-- Mantenha as regras e a estrutura do template.
-- Substitua os dados de exemplo pelas informações reais do produto ou funcionalidade.
-- Forneça o prompt a um modelo de IA.
-- Revise o resultado gerado.
-- Utilize a newsletter após a validação das informações.
+- Abra `prompt/template-newsletter.md`.
+- Preencha os campos obrigatórios da edição e das novidades.
+- Adicione informações adicionais somente quando forem relevantes.
+- Forneça o prompt preenchido ao modelo de IA.
+- Revise a newsletter gerada.
+- Valide as informações antes da publicação.
 
 ---
 
@@ -137,7 +137,7 @@ Não disponível.
 
 ## 🧪 Exemplo
 
-O arquivo exemplos/newsletter-exemplo.md apresenta uma aplicação prática do template.
+O arquivo `exemplos/newsletter-exemplo.md` apresenta uma aplicação prática do template.
 
 O exemplo demonstra a geração de uma newsletter contendo:
 
@@ -151,9 +151,9 @@ O exemplo demonstra a geração de uma newsletter contendo:
 
 A documentação da metodologia está disponível em:
 
-docs/metodologia.md
+`docs/metodologia.md`
 
-O documento apresenta as decisões utilizadas na construção do prompt e os critérios adotados para estrutura, clareza, confiabilidade e validação.
+O documento apresenta o processo utilizado na construção do prompt, incluindo as decisões de estrutura, clareza, confiabilidade, tratamento de informações ausentes e validação.
 
 ---
 
@@ -184,7 +184,7 @@ Você pode fazer um fork deste repositório, adaptar o template às suas necessi
 
 ## 📌 Status
 
-Concluído — versão inicial do template.
+Concluído — versão inicial do projeto.
 
 O projeto pode receber novas versões e melhorias conforme novos casos de uso sejam identificados.
 
