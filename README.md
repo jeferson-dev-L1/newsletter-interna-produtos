@@ -1,5 +1,3 @@
-# newsletter-interna-produtos
-
 # 📋 Prompt — Newsletter Interna de Novos Produtos
 
 > Template reutilizável de Engenharia de Prompt para criação de newsletters internas sobre novos produtos e funcionalidades digitais.
@@ -42,7 +40,7 @@ O prompt define:
 1. **Papel** — estabelece o contexto de atuação da IA;
 2. **Objetivo** — determina o resultado esperado;
 3. **Regras de comunicação** — define linguagem e tom;
-4. **Regras de confiabilidade** — impede a criação de informações não fornecidas;
+4. **Regras de confiabilidade** — reduz o risco de criação de informações não fornecidas;
 5. **Estrutura de saída** — padroniza a newsletter;
 6. **Tratamento de informações ausentes** — utiliza `⚠️ Informação pendente`;
 7. **Tratamento de links** — preserva URLs fornecidas e sinaliza quando não houver link;
@@ -82,27 +80,28 @@ Apresenta um exemplo de newsletter gerada a partir dos dados fornecidos ao model
 Apresenta a metodologia utilizada na construção do prompt, incluindo decisões de estrutura, confiabilidade e validação.
 
 ---
-🚀 Como utilizar
-Abra o arquivo prompt/template-newsletter.md.
-Mantenha as regras e a estrutura do template.
-Substitua os dados de exemplo pelas informações reais do produto ou funcionalidade.
-Forneça o prompt a um modelo de IA.
-Revise o resultado gerado.
-Utilize a newsletter após a validação das informações.
+## 🚀 Como utilizar
+
+- Abra o arquivo `prompt/template-newsletter.md`.
+- Mantenha as regras e a estrutura do template.
+- Substitua os dados de exemplo pelas informações reais do produto ou funcionalidade.
+- Forneça o prompt a um modelo de IA.
+- Revise o resultado gerado.
+- Utilize a newsletter após a validação das informações.
 
 ---
 
-🔒 Princípios de confiabilidade
+## 🔒 Princípios de confiabilidade
 
 O prompt estabelece que o modelo deve:
 
-utilizar exclusivamente os dados fornecidos;
-não inventar informações;
-não fazer suposições;
-não alterar URLs;
-preservar os status informados;
-sinalizar informações ausentes;
-verificar consistência entre os campos.
+- utilizar exclusivamente os dados fornecidos;
+- não inventar informações;
+- não fazer suposições;
+- não alterar URLs;
+- preservar os status informados;
+- sinalizar informações ausentes;
+- verificar consistência entre os campos.
 
 Quando uma informação necessária não estiver disponível, o modelo deve utilizar:
 
@@ -114,19 +113,19 @@ Não disponível.
 
 ---
 
-🧪 Exemplo
+## 🧪 Exemplo
 
 O arquivo exemplos/newsletter-exemplo.md apresenta uma aplicação prática do template.
 
 O exemplo demonstra a geração de uma newsletter contendo:
 
-Central de Solicitações 2.0;
-Painel de Indicadores Comerciais;
-Integração SSO do Portal de Benefícios.
+- Central de Solicitações 2.0;
+- Painel de Indicadores Comerciais;
+- Integração SSO do Portal de Benefícios.
 
 ---
 
-📚 Metodologia
+## 📚 Metodologia
 
 A documentação da metodologia está disponível em:
 
@@ -136,25 +135,30 @@ O documento apresenta as decisões utilizadas na construção do prompt e os cri
 
 ---
 
-🛠️ Tecnologias e ferramentas
-Engenharia de Prompt;
-Modelos de Inteligência Artificial Generativa;
-Markdown;
-Git;
-GitHub;
-Visual Studio Code.
-
+## 🛠️ Tecnologias e ferramentas
+- Engenharia de Prompt
+- Modelos de Inteligência Artificial Generativa
+- Markdown
+- Git
+- GitHub
+- Visual Studio Code
 ---
 
-🎯 Objetivo do portfólio
+## 🎯 Objetivo do portfólio
 
 Este projeto demonstra a aplicação prática de Engenharia de Prompt na criação de uma solução estruturada para comunicação interna de produtos digitais.
 
 O foco não está apenas na geração de texto, mas na definição de regras, estrutura, validações e critérios de confiabilidade para orientar o comportamento do modelo.
 
+## 🍴 Fork e reutilização
+
+Este projeto pode ser utilizado como base para estudos, adaptações e novos casos de uso.
+
+Você pode fazer um fork deste repositório, adaptar o template às suas necessidades e criar sua própria versão do projeto.
+
 ---
 
-📌 Status
+## 📌 Status
 
 Concluído — versão inicial do template.
 
@@ -162,7 +166,7 @@ O projeto pode receber novas versões e melhorias conforme novos casos de uso se
 
 ---
 
-👤 Autor
+## 👤 Autor
 
 Jeferson Silva
 
