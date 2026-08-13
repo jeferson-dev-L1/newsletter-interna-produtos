@@ -32,7 +32,7 @@ Nesta edição, reunimos novidades que ajudam a melhorar a produtividade e facil
 
 ### ⭐ Integração de Login Único (SSO) do Portal de Benefícios
 
-- **O que é:** Integração de login único (SSO) para acesso ao Portal de Benefícios utilizando as credenciais corporativas.
+- **O que é:** Integração para acesso ao Portal de Benefícios utilizando as credenciais corporativas.
 - **Por que isso importa:** Reduz a necessidade de múltiplas senhas e facilita o acesso ao portal.
 - **Para quem é:** Todos os colaboradores.
 - **Como acessar/usar:** Acessar o Portal de Benefícios normalmente. Para os colaboradores com acesso ao novo login, a autenticação será realizada automaticamente utilizando as credenciais corporativas.
