@@ -263,6 +263,8 @@ problema ao suporte.
 
 Canal de dúvidas/suporte: Canal #beneficios-chat-whatsapp
 
+> **Importante:** A NOVIDADE 4 é apenas um modelo de preenchimento. Não a considere uma novidade real enquanto os campos estiverem preenchidos com placeholders `{...}`.
+
 NOVIDADE 4 — PREENCHA AQUI
 
 Nome: {NOME DO PRODUTO OU FUNCIONALIDADE}
