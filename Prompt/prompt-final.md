@@ -1,4 +1,5 @@
 Prompt Final
+
 📋 Template Reutilizável — Newsletter Interna de Novos Produtos
 
 ## Campos obrigatórios (entrada)
