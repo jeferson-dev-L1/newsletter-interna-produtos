@@ -48,7 +48,7 @@ O prompt foi dividido em diferentes partes para facilitar sua compreensão e reu
 
 Define o papel assumido pelo modelo:
 
-> Especialista em Comunicação Interna de produtos digitais.
+> Especialista em Comunicação Interna de Produtos Digitais.
 
 Essa definição estabelece o contexto de atuação da IA e orienta o estilo da comunicação.
 
@@ -70,7 +70,7 @@ Orienta o modelo a utilizar títulos curtos, frases objetivas e bullets, evitand
 
 #### Confiabilidade
 
-Impede que o modelo invente ou complete informações ausentes.
+Reduz o risco de o modelo inventar ou completar informações ausentes.
 
 Quando uma informação necessária não estiver disponível, o prompt orienta o uso de:
 
