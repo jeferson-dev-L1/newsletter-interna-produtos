@@ -58,7 +58,7 @@ newsletter-interna-produtos/
 ├── README.md
 │
 ├── prompt/
-│   └── template-newsletter.md
+│   └── prompt-final.md
 │
 ├── exemplos/
 │   └── newsletter-exemplo.md
