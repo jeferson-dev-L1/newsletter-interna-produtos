@@ -109,6 +109,8 @@ Cada novidade também possui campos padronizados:
 
 Essa estrutura facilita a leitura e permite comparar diferentes produtos ou funcionalidades.
 
+Os dados de entrada também podem conter informações adicionais opcionais, utilizadas apenas quando forem relevantes para contextualizar a novidade e compatíveis com a estrutura definida.
+
 ---
 
 ## 6. Controle de informações
@@ -124,7 +126,8 @@ Para isso, foram estabelecidas regras como:
 - não alterar URLs;
 - não fazer suposições sobre informações ausentes;
 - preservar os status informados;
-- sinalizar informações ausentes.
+- sinalizar informações ausentes;
+- informar "Não disponível." quando não houver link fornecido.
 
 Além disso, o prompt determina uma etapa de validação antes da geração da newsletter.
 
